@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Software Developer working in English, German and Italian.
+
 ## Projects
 - myricetta. 
 - Remote Search.
@@ -8,13 +10,10 @@
 - Navbar Alternator.
 
 ## Tech
-
-
-## Foreign languages
-- Native Italian
-- Excellent English
-- Professional German
-- Fluency in French, Spanish, Romanian
+- I’ve written the entire company’s invoicing and agenda systems, as well as UI libraries, in JavaScript, HTML and CSS
+- The president and administration departments of a leading Italian company have relied on my algorithms in SQL for the financial analysis of the company (sales, salaries, employee performance, expansion by region etc.)
+- Strong knowledge of Algorithms & Data structures 
+- Strong knowledge of OOP, declarative and async programming
 
 
 <!--
