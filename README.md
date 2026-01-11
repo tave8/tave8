@@ -26,8 +26,8 @@ Software Developer working in English, German and Italian.
 - SQL
 
 ## Foundations
-- Strong knowledge of Algorithms & Data structures 
-- Strong knowledge of OOP, declarative and async programming
+- Strong knowledge of Algorithms & Data structures. See example 
+- Strong knowledge of OOP, declarative and async programming. See example
 
 
 <!--
