@@ -11,7 +11,10 @@
 
 
 ## Foreign languages
-Native Italian. Excellent English. Professional German. Fluency in French, Spanish, Romanian. 
+- Native Italian
+- Excellent English
+- Professional German
+- Fluency in French, Spanish, Romanian
 
 
 <!--
