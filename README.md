@@ -1,10 +1,17 @@
 ## Hi there 👋
 
 ## Projects
+- myricetta. 
 - Remote Search.
 - Typewriter.
 - Typing Delayer.
 - Navbar Alternator.
+
+## Tech
+
+
+## Foreign languages
+Native Italian. Excellent English. Professional German. Fluency in French, Spanish, Romanian. 
 
 
 <!--
