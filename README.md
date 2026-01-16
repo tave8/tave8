@@ -12,7 +12,7 @@ Backend Software Developer working in English, German and Italian.
 - Typewriter.
 - Typing Delayer.
 - Navbar Alternator.
-- Netflix Scroller.
+- Simple Slider.
 
 ## Qualities
 - Writing readable, reusable code is at the top of my mind
