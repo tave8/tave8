@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Backend Software Developer working in English, German and Italian.
+I'm Giuseppe, Backend Software Developer, I stand out for my strong Front-end and SQL knowledge and working in 3 languages (English, German, Italian).
+
+This makes me a perfect fit for working in the DACH area.
+
 
 ## Accomplishments
 - I’ve written the entire company’s invoicing and agenda systems, as well as UI libraries, in JavaScript, HTML and CSS
