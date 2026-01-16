@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-Software Developer working in English, German and Italian.
+Backend Software Developer working in English, German and Italian.
 
-## What I've accomplished
+## Accomplishments
 - I’ve written the entire company’s invoicing and agenda systems, as well as UI libraries, in JavaScript, HTML and CSS
 - The president and administration departments of a leading Italian company have relied on my algorithms in SQL for the financial analysis of the company (sales, salaries, employee performance, expansion by region etc.)
-- Thanks to my full-stack skills, I build software from idea to URL
 
 ## Projects
 - myricetta. 
@@ -26,8 +25,8 @@ Software Developer working in English, German and Italian.
 - SQL
 
 ## Foundations
-- Strong knowledge of Algorithms & Data structures. See example 
-- Strong knowledge of OOP, declarative and async programming. See example
+- Strong knowledge of Algorithms & Data structures
+- Strong knowledge of OOP and async programming
 
 
 <!--
