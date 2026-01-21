@@ -4,8 +4,6 @@ I'm Giuseppe, Backend Software Developer, I stand out for my strong Front-end an
 
 This makes me a perfect fit for working in the DACH area.
 
-I speak more languages, but that's for another day.
-
 ## Accomplishments
 - I’ve written the entire company’s invoicing and agenda systems, as well as UI libraries, in JavaScript, HTML and CSS
 - The president and administration departments of a leading Italian company have relied on my algorithms in SQL for the financial analysis of the company (sales, salaries, employee performance, expansion by region etc.)
