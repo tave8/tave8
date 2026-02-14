@@ -9,6 +9,13 @@ This makes me a perfect fit for working in the DACH area.
 - The president and administration departments of a leading Italian company have relied on my algorithms in SQL for the financial analysis of the company (sales, salaries, employee performance, expansion by region etc.)
 
 ## Projects
+
+### User-facing
+
+- netflix. https://netflix.giuseppetavella.com
+- tempify. https://tempify-frontend.pages.dev
+
+### Libraries
 - myricetta. 
 - Remote Search.
 - Typewriter.
