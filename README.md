@@ -14,6 +14,7 @@ This makes me a perfect fit for working in the DACH area.
 
 - netflix. https://netflix.giuseppetavella.com
 - tempify. https://tempify-frontend.pages.dev
+- linkedin. https://github.com/tave8/linkedin-clone | https://linkedin-clone-6pv.pages.dev/
 
 ### Libraries
 - myricetta. 
