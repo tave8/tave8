@@ -2,11 +2,19 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-*I write code that humans have pleasure to read*. I love designing systems. 
+I own the full stack.
 
-Some examples:
-- [Background Job System](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/infrastructure/jobs/job_library/JobManager.java) 
-- [Forgot Password System](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java)
+*I write code that humans have pleasure to read*. I love designing systems and abstractions that make life easier. 
+
+I'm a problem-solver:
+- Background jobs are harder than they look. [I built the whole system from scratch](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/infrastructure/jobs/job_library/JobManager.java) — scheduler, lifecycle, retries, the works.
+- Forgot password sounds simple until you think about it for five minutes. [I thought about it for longer](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java).
+- "Is this time slot available?" is a deceptively hard question. [I wrote a spec](https://github.com/tave8/availability-algorithm).
+- State transitions are easy to get wrong and painful to debug. [I made it impossible to get wrong](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/helpers/StateTransitionHelper.java).
+- Matrix traversal looks complex. [Zigzag in 3 lines says otherwise](https://github.com/tave8/matrix-traverser-python/blob/main/examples/zigzag_pattern.py).
+- Typewriting effect looks like magic. [It isn't](https://github.com/tave8/typewriter). [Demo](https://typewriter-green.vercel.app).
+- Calling APIs directly from components works until it doesn't. [I built an abstraction layer](https://github.com/tave8/operavion-crm-frontend/blob/main/src/js/api/APIHelper.ts). [Here's how I use it](https://github.com/tave8/operavion-crm-frontend/blob/main/src/js/api/AuthAPI.ts).
+- Backend shouldn't know where `/dashboard` lives on the frontend. [So I made it not care](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/config/FrontendRoutes.java). The controller just calls `frontendRoutes.emailVerificationSuccess()` and moves on. [See it in action](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/api/controllers/auth/VerifyEmailController.java).
 
 
 Check out examples of my system design, code style:
