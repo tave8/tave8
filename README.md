@@ -5,7 +5,7 @@ I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses
 *I write code that humans have pleasure to read*. I love designing systems. 
 
 Some examples:
-- [Background Job System]([url](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/infrastructure/jobs/job_library/JobManager.java)) 
+- [Background Job System](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/infrastructure/jobs/job_library/JobManager.java) 
 - [Forgot Password System](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java)
 
 
