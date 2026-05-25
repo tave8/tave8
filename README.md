@@ -1,56 +1,36 @@
-## Hi there 👋
+# Giuseppe Tavella
 
-I'm Giuseppe, Backend Software Developer, I stand out for my strong Front-end and SQL knowledge and working in 3 languages (English, German, Italian).
+I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-This makes me a perfect fit for working in the DACH area.
+## What I'm building
 
-## Accomplishments
-- I’ve written the entire company’s invoicing and agenda systems, as well as UI libraries, in JavaScript, HTML and CSS
-- The president and administration departments of a leading Italian company have relied on my algorithms in SQL for the financial analysis of the company (sales, salaries, employee performance, expansion by region etc.)
+**ZeroChiamate CRM** — built solo, from scratch.
 
-## Projects
+Java + Spring Boot backend, React + TypeScript frontend, PostgreSQL, 
+deployed on Cloudflare Pages and Railway.
 
-### User-facing
+Some things I built that I'm proud of:
+- A background job system from scratch — scheduler, manager, executor pattern
+- AI-powered contract discrepancy detection using Anthropic's API
+- Stripe billing — subscriptions, trials, webhooks, full lifecycle
+- Shift conflict detection using interval overlap algorithms
+- Schema migrations across 3 environments with Flyway
 
-- netflix. https://netflix.giuseppetavella.com
-- tempify. https://tempify-frontend.pages.dev
-- linkedin. https://github.com/tave8/linkedin-clone | https://linkedin-clone-6pv.pages.dev/
+## Work experience
 
-### Libraries
-- myricetta. 
-- Remote Search.
-- Typewriter.
-- Typing Delayer.
-- Navbar Alternator.
-- Simple Slider.
+Backend developer at [Company] — built the invoicing and agenda systems.
+My SQL financial analysis algorithms are used by the company's administration
+for sales, salaries, employee performance and regional expansion analysis.
 
-## Qualities
-- Writing readable, reusable code is at the top of my mind
+## Languages
 
-## Tech
-- HTML
-- CSS
-- JavaScript
-- Python
-- PHP
-- SQL
+Italian (native) · English (fluent) · German (fluent)
 
-## Foundations
-- Strong knowledge of Algorithms & Data structures
-- Strong knowledge of OOP and async programming
+## Stack
 
+Java · Spring Boot · React · TypeScript · PostgreSQL · 
+JavaScript · HTML · CSS
 
-<!--
-**tave8/tave8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
+## Links
+- GitHub: github.com/tave8
+- Operavion: [coming soon]
