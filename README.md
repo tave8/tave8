@@ -15,6 +15,7 @@ Some things I built that I'm proud of:
 - Stripe billing — subscriptions, trials, webhooks, full lifecycle
 - Shift conflict detection using interval overlap algorithms
 - Schema migrations across 3 environments with Flyway
+- Algorithm to solve matrix and maze traversal problems
 
 ## Work experience
 
