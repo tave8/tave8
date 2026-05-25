@@ -5,7 +5,7 @@ I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses
 *I write code that humans have pleasure to read*.
 
 See proof:
-- [Forgot Password System]([url](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java)) 
+- [Forgot Password System](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java)
 
 
 Check out examples of my system design, code style:
