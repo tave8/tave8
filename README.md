@@ -4,6 +4,32 @@ I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses
 
 *I write code that humans have pleasure to read* - machines already know how.
 
+```java
+private int processNextItems(JobName jobName, JobExecutor<?> executor) {
+    
+    int countNextItems = 0;
+    
+    JobExecutionItem<?> nextItem = executor.getNextItem();
+
+    // if there's no next item to process, we stop the entire job
+    while(nextItem != null) {
+
+        // ********************
+        // ADD NEW JOB EXECUTION WITH INCOMPLETE STATE
+        // ********************
+
+        // add a job execution to the DB, before 
+        // processing this item
+        JobExecution currentJobExecution = this.jobExecutionService.addNewJobExecution(
+                jobName,
+                nextItem.getItemId()
+        );
+        
+        // holds the exception itself, 
+        // if any was raised during processing
+        RuntimeException errorDuringProcessing = null;
+```
+
 *Give me a challenge, not a task* - is how I live my work life.
 
 ## What I'm building
