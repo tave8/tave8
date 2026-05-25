@@ -2,7 +2,15 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-*I write code that humans have pleasure to read* - machines already know how.
+*I write code that humans have pleasure to read*.
+
+See proof:
+- [Forgot Password System]([url](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java)) 
+
+
+Check out examples of my system design, code style:
+
+, something like:
 
 ```java
 private int processNextItems(JobName jobName, JobExecutor<?> executor) {
@@ -28,7 +36,49 @@ private int processNextItems(JobName jobName, JobExecutor<?> executor) {
         // holds the exception itself, 
         // if any was raised during processing
         RuntimeException errorDuringProcessing = null;
+...
 ```
+
+That was from my Background Job System.
+
+Or from my Forgot Password System: 
+
+```java
+@Transactional
+public void verifyAuthorizationCodeWhenClick(UUID codeId) 
+{
+
+    try {
+        
+        // the code must exist
+        ForgotPasswordCode code = this.findById(codeId);
+        
+        // the code must be non-expired
+        this.requireNotExpiredCode(code, SET_PASSWORD_TTL);
+        
+        // the code must be usable 
+        this.requireUsableCode(code);
+        
+        // the code must be not clicked
+        this.requireNotClickedCode(code);
+        
+        // the code must belong to a user that exists
+        User owner = this.usersService.findById(code.getUser().getId());
+        
+        // the code must belong to a user with verified email
+        this.requireVerifiedEmail(owner);
+        
+        // ALL CONTROLS PASSED ********
+        
+        // mark code as clicked
+        this.forgotPasswordRepository.markCodeAsClicked(code);
+        
+        // mark all other codes of this owner as unusable,
+        // except this code
+        this.forgotPasswordRepository.markAllCodesAsUnusableExcept(owner, code);
+...
+```
+
 
 *Give me a challenge, not a task* - is how I live my work life.
 
