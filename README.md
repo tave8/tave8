@@ -18,19 +18,24 @@ Some things I built that I'm proud of:
 
 ## Work experience
 
-Backend developer at [Company] — built the invoicing and agenda systems.
+Backend developer at Italia Lavoro — built the invoicing and agenda systems.
 My SQL financial analysis algorithms are used by the company's administration
 for sales, salaries, employee performance and regional expansion analysis.
 
 ## Languages
 
-Italian (native) · English (fluent) · German (fluent)
+Italian (native) · English (fluent) · German (fluent) 
+
+Plus Spanish, French, Romanian (yep, I'm polyglot, *wusstest du das nicht?*).
 
 ## Stack
 
-Java · Spring Boot · React · TypeScript · PostgreSQL · 
-JavaScript · HTML · CSS
+Java · Spring Boot · PostgreSQL 
+
+React · TypeScript · JavaScript · Bootstrap · HTML · CSS 
+
+I've also worked with Python (algorithms) and PHP (building a CRM)
 
 ## Links
 - GitHub: github.com/tave8
-- Operavion: [coming soon]
+- ZeroChiamate: [https://zerochiamate.com]
