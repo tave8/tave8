@@ -2,7 +2,9 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-I like text, not emojis.
+*I write code that humans have pleasure to read* - machines already know how.
+
+*Give me a challenge, not a task* - is how I live my work life.
 
 ## What I'm building
 
