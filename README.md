@@ -2,6 +2,8 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
+I like text, not emojis.
+
 ## What I'm building
 
 **ZeroChiamate CRM** — built solo, from scratch.
