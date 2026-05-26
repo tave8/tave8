@@ -26,12 +26,9 @@ Java + Spring Boot backend, React + TypeScript frontend, PostgreSQL,
 deployed on Cloudflare Pages and Railway.
 
 Some things I built that I'm proud of:
-- A background job system from scratch — scheduler, manager, executor pattern
 - AI-powered contract discrepancy detection using Anthropic's API
 - Stripe billing — subscriptions, trials, webhooks, full lifecycle
-- Shift conflict detection using interval overlap algorithms
 - Schema migrations across 3 environments with Flyway
-- Algorithm to solve matrix and maze traversal problems
 
 ## Work experience
 
