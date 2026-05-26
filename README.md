@@ -2,7 +2,7 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-One of the few remaining developers who still reads text... Which is why you'll see no emojis 😉
+One of the few remaining developers who loves boring text without emojis... Which is why you'll see no emojis 😉
 
 How to make me happy? *Give me a challenge, not a task*.
 
