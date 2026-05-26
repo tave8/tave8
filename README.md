@@ -6,9 +6,7 @@ One of the few remaining developers who loves boring text without emojis and rep
 
 How to make me happy? *Give me a challenge, not a task*.
 
-I thrive in ambiguity.
-
-I'm a problem-solver across the full stack:
+I thrive in ambiguity and I'm a problem-solver across the full stack:
 ## Backend & System design
 - Background jobs are harder than they look. [I built the whole system from scratch](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/infrastructure/jobs/job_library/JobManager.java) — scheduler, lifecycle, retries, the works.
 - Forgot password sounds simple until you think about it for five minutes. [I thought about it for longer](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java).
