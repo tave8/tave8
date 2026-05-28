@@ -2,11 +2,12 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-One of the few remaining developers who loves boring text without emojis and replies *no thanks* to the next Javascript "cool framework".
-
 How to make me happy? *Give me a challenge, not a task*.
 
-I thrive in ambiguity and I'm a problem-solver across the full stack:
+My nature is ***building across the full stack***. I'm not looking for a standard job. I'm looking for early stage startups where I can have ownership and build end to end.
+
+Below you find some problems I solved and how I reason.
+
 ## Backend & System design
 - Background jobs are harder than they look. [I built the whole system from scratch](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/infrastructure/jobs/job_library/JobManager.java) — scheduler, lifecycle, retries, the works.
 - Forgot password sounds simple until you think about it for five minutes. [I thought about it for longer](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/domain/business/auth/ForgotPasswordService.java).
@@ -26,7 +27,7 @@ I thrive in ambiguity and I'm a problem-solver across the full stack:
 - Typewriting effect looks like magic. [It isn't](https://github.com/tave8/typewriter/blob/main/example.js). [Demo](https://typewriter-green.vercel.app).
 - Searching while typing fires too many requests. [I built a library that waits until you stop](https://github.com/tave8/typing-delayer/blob/main/dist/script.js). The hard part wasn't the delay — it was making sure `this` points where you expect it in the callback.
 
-As I said, I'm a problem solver, with a strong preference for backend.
+I'm not looking for a standard junior/mid developer role. I'm looking for early stage startups where I can have ownership and build end to end.
 
 
 ## What I'm building
