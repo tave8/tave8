@@ -2,22 +2,16 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-My nature is **challenges**. I thrive in ambiguity and taking ownership. My death is routine.
+My nature is **challenges**. I thrive in ambiguity and taking ownership. 
 
-I enjoy solving problems as lifestyle, so the notion of "normal job" does not apply; I usually keep on working at it. 
+I enjoy solving problems as lifestyle, so the notion of "normal job" does not apply; I either embrace a company's vision fully and pour my soul into it, or I don't. 
 
-
-
-- I was fed up with having to learn a new framework for background jobs, so I made my own.
-- I want to understand how things work. That's why I designed a forgot password security system. 
-- 
+- I was fed up with having to learn a new framework for background jobs, so I made my own. 
+- I want to understand how things work. That's why I designed a forgot password security system, and accidentally turned Java into a poem. 
+- Writing SQL queries that deal with time is serious business. I wasn't feeling fully confident about edge cases, so I wrote a problem-solving template, a sort of specification.
 - I taught myself German, 1 hour a day, every day for 8 months, built my own learning plan, from 0 to more than fluent - and not because I needed to. Bottom line: "proactive personality" is an understatement (btw I speak 6 languages).
 
 
-How to make me happy? *Give me a challenge, not a task*. 
-
-
-Below you find some problems I solved and how I reason.
 
 ## Backend & System design
 - Background jobs are harder than they look. [I built the whole system from scratch](https://github.com/tave8/operavion-crm-backend/blob/main/src/main/java/giuseppetavella/zero_chiamate/infrastructure/jobs/job_library/JobManager.java) — scheduler, lifecycle, retries, the works.
