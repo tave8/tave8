@@ -2,9 +2,20 @@
 
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-How to make me happy? *Give me a challenge, not a task*.
+My nature is **challenges**. I thrive in ambiguity and taking ownership. My death is routine.
 
-My nature is ***building across the full stack***. I'm not looking for a standard job. I'm looking for early stage startups where I can have ownership and build end to end.
+I enjoy solving problems as lifestyle, so the notion of "normal job" does not apply; I usually keep on working at it. 
+
+
+
+- I was fed up with having to learn a new framework for background jobs, so I made my own.
+- I want to understand how things work. That's why I designed a forgot password security system. 
+- 
+- I taught myself German, 1 hour a day, every day for 8 months, built my own learning plan, from 0 to more than fluent - and not because I needed to. Bottom line: "proactive personality" is an understatement (btw I speak 6 languages).
+
+
+How to make me happy? *Give me a challenge, not a task*. 
+
 
 Below you find some problems I solved and how I reason.
 
