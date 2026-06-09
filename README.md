@@ -11,7 +11,7 @@ Some things I've built and how I think:
 - **Algorithms**.
 - **Frontend**. 
 - **Access control**. I designed an access control system, to allow admins control for all pages of the CRM, from a simple, central panel. Admins can enable or disable access to certain pages or portions of pages of the CRM, for an arbitrary role, with one click. The ease of use shows how much I care about UX.
-- **Personality**. I taught myself German, 1 hour a day, every day for 8 months, built my own learning plan, from 0 to more than fluent - and not because I needed to. Bottom line: "proactive personality" is an understatement (btw I speak 6 languages).
+- **Personality**. What does it tell you an individual that teaches themselves a foreign language like German, 1 hour a day, every day for 8 months, builds their own learning plan, gets from 0 to more than fluent? I like doing the harder things. (btw I speak 6 languages). 
 
 
 
