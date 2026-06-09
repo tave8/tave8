@@ -1,12 +1,6 @@
-# Giuseppe Tavella
-
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
 Ambiguity is not only ok for me, it's how I function best. 
-
-What I believe in:
-- Do the hard things first  
-- ..
 
 With my peculiar skillset, this is how I can contribute to your company's mission: 
 
@@ -40,7 +34,10 @@ With my peculiar skillset, this is how I can contribute to your company's missio
 - Typewriting effect looks like magic. [It isn't](https://github.com/tave8/typewriter/blob/main/example.js). [Demo](https://typewriter-green.vercel.app).
 - Searching while typing fires too many requests. [I built a library that waits until you stop](https://github.com/tave8/typing-delayer/blob/main/dist/script.js). The hard part wasn't the delay — it was making sure `this` points where you expect it in the callback.
 
-I'm not looking for a standard junior/mid developer role. I'm looking for early stage startups where I can have ownership and build end to end.
+
+What I believe in:
+- Do the hard things first  
+- ..
 
 
 ## What I'm building
