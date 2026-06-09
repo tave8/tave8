@@ -4,12 +4,16 @@ I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses
 
 Ambiguity is not only ok for me, it's how I function best. 
 
+What I believe in:
+- Do the hard things first  
+- ..
+
 With my peculiar skillset, this is how I can contribute to your company's mission: 
 
 - **Appointments**. I wrote an internal agenda/appointment system in raw PHP and SQL (no frameworks) for a company with 120+ employees. It's not the sexiest or most performant code, but I made it in 2 weeks (including advanced stats, permission-based access etc.) and saved a company from operational chaos. It's still in production. Previously they were running on Google Calendar + Excel and to quote them "it was a mess". I was very happy with the immediate adoption, frequent usage and no complaints about the reliability or logical correctedness after thousands of appointments. Since then, I've been fascinated with time-related algorithms, which is what led me, years later and faced with a similar problem, to formalize some aspects of this problem into a spec.
 - **Stats for CEO**. Can you imagine being responsible for writing the stats and reports that a company's CEO will look at first thing in the morning to assess how the company is going and what decisions must be taken? Well, meet Giuseppe, the **_from-requirement-to-product-wizard_**! I worked directly with the company's most vital numbers: sales, invoices, earnings, salaries, employees commissions, grouped by month, week, region etc., all kinds of vital, custom metrics. My day consisted of translating something like _"Cross-reference the N invoice confirmations for each customer in the given month, so you get the total paid and to be paid, only if the confirmation type was X, only if the customer met condition Y, only if the number of Y was etc."_ into a logically robust SQL algorithm. Months went by, and I never heard a complaint about the reliability of the software despite working with such sensitive data that affected a whole company, scrutinized every day by the company's CEO. I guess we can interpret that as _it just works_.
 - **Background jobs**. I was fed up with having to learn a new framework for background jobs, so I made my own. 
-- **Forgot password**. I want to understand how things work. That's why I designed a forgot password security system, and accidentally turned Java into a poem.
+- **Forgot password**. I have a natural skepticism towards abstractions; Either I make my own, or very soon I'll go deep in the bowels of the one I'm using. Which is why I designed a forgot password security system. In the code, you see how I've solved this problem declaratively, and the whole thing reads like plain English.
 - **Algorithms**.
 - **Frontend**. 
 - **Access control**. I designed an access control system, to allow admins control for all pages of the CRM, from a simple, central panel. Admins can enable or disable access to certain pages or portions of pages of the CRM, for an arbitrary role, with one click. The ease of use shows how much I care about UX.
