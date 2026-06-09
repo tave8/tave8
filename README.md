@@ -1,6 +1,6 @@
 I'm a backend developer building ZeroChiamate, a CRM SaaS for service businesses.
 
-Ambiguity is not only ok for me, it's how I function best. 
+Ambiguity and high-ownership is how I function best. 
 
 With my peculiar skillset, this is how I can contribute to your company's mission: 
 
