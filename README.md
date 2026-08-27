@@ -1,3 +1,3 @@
 Backend developer. Polyglot. 
 
-LinkedIn: [See Linkedin](https://www.linkedin.com/in/giuseppetavella/)
+Projects and experience: [See Linkedin](https://www.linkedin.com/in/giuseppetavella/)
